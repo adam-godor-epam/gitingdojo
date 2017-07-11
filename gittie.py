@@ -1,5 +1,5 @@
 def introduce():
-    print("Hello, I'm Gittie!")
+    print("Hello, my name is Gittie! Nice to meet you!")
 
 
 def add(a, b):
@@ -14,7 +14,7 @@ def joke():
             print("You have the correct answer.")
             return
     print("You ran out from tries. The answer was: {}".format(answer))
-        
+
 
 def shout():
     pass
