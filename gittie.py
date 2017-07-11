@@ -18,4 +18,4 @@ def joke():
 
 
 def shout():
-    pass
+    print("WAAAAAAAAAAAAAAAAAAAAAAAAA!!!")
