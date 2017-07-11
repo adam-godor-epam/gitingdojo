@@ -1,5 +1,5 @@
 def introduce():
-    print("Hi! I am Gittie!")
+    print("Hello, my name is Gittie! Nice to meet you!")
     print("I have a good joke for you!")
 
 
@@ -15,7 +15,7 @@ def joke():
             print("You have the correct answer.")
             return
     print("You ran out from tries. The answer was: {}".format(answer))
-        
+
 
 def shout():
     pass
